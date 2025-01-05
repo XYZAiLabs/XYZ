@@ -1,7 +1,6 @@
 # Utils CMake configuration
 cmake_minimum_required(VERSION 3.12)
 
-# Source files
 set(UTILS_SOURCES
     logging.cpp
     config_loader.cpp
